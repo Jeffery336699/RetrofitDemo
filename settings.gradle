@@ -1,0 +1,4 @@
+include ':test'
+include ':test'
+include ':app'
+include ':Inject'
